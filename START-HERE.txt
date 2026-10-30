@@ -1,0 +1,10 @@
+PARADISE NURSERY PROJECT
+
+1. Install Node.js.
+2. Extract this ZIP.
+3. Open the Paradise-Nursery folder in VS Code.
+4. Open Terminal and run: npm install
+5. Then run: npm run dev
+6. Open the localhost link shown in the terminal.
+
+To submit on GitHub: create a public repository named Paradise-Nursery, upload the contents of this folder, and use the README.md and src file links for your assignment.
